@@ -16,13 +16,12 @@ This application was created as a part of two university classes' final project,
 ## Features
 
 ### 1. Sign In and Sign Up
-- **New Users**: Can easily register by filling out a form that collects basic information such as name, age, gender, home address, email, phone number, and password. Users can also sign up using their social media accounts.
-- **Existing Users**: Can log in using their email and password or through linked social media accounts.
+- **New Users**: Can easily register by filling out a form that collects basic information such as name, age, gender, home address, email, phone number, and password.
+- **Existing Users**: Can log in using their email and password.
 
 ### 2. Redeem Points
 - Users earn points every time they utilize pickup or drop-off services for their recyclable waste.
-- Points are awarded based on the amount of waste provided.
-- Users can redeem accumulated points for rewards or shopping vouchers.
+- Points are awarded based on the amount of waste provided which can be used for rewards or shopping vouchers.
 
 ### 3. Location
 - The app provides an interactive map that shows nearby drop-off points and available pickup services in the user's area.
@@ -31,24 +30,20 @@ This application was created as a part of two university classes' final project,
 ### 4. Pick Up
 - Users can schedule a waste pickup at their location by a recycling service provider.
 - They can select a convenient time for pickup, making waste management easier.
-- Real-time notifications keep users informed about the pickup status and confirmation from the service provider.
 
 ### 5. Drop Off
-- Users can view and get directions to nearby drop-off locations, such as recycling centers, waste banks, and collection points.
-- The app provides a map with interactive directions to make reaching drop-off points easier.
+- Users can schedule a waste drop-off to nearby locations, such as recycling centers, waste banks, and collection points.
 
 ### 6. History
-- A complete history of all pickups and drop-offs, including dates, waste amounts, and points earned, is accessible.
-- Users can also view rewards or vouchers claimed through point redemption.
+- **Transaction History**: A complete history of all pickups and drop-offs, including dates, waste amounts, and points earned, is accessible.
+- **Rewards History**: Users can also view rewards or vouchers claimed through point redemption.
 
 ### 7. Profile
 - Users can update their personal information such as name, home address, phone number, and email.
-- Options are available to configure notification preferences, language settings, and privacy settings.
-- Users can change their password and activate additional security features like two-factor authentication.
+- Users can also change their password.
 
 ### 8. Newsletter
 - Periodic newsletters are sent to users to provide educational materials on recycling, effective waste management tips, and the latest environmental news.
-- This feature aims to enhance user awareness and knowledge about sustainable waste management and recycling efforts.
 
 ## Versions Used
 - **PHP**: 8.2.12
